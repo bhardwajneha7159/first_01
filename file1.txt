@@ -1,2 +1,6 @@
 hello everyone 
 this is my first file. 
+second lecture of git 
+code1 
+code2
+code3
